@@ -40,7 +40,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj07-dba&show_icons=true&theme=tokyonight" alt="stats"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=dhiraj07-dba&theme=tokyonight"/>
 </p>
