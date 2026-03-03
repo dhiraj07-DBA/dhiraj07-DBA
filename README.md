@@ -2,7 +2,7 @@
 <h3 align="center"> Database Administrator 💾 | 4+ Years Experience | Oracle Performance Tuning Specialist ⚡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dhiraj07-dba&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -40,9 +40,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj07-DBA&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj07-dba&show_icons=true&theme=tokyonight" alt="stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj07-DBA&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj07-dba&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
